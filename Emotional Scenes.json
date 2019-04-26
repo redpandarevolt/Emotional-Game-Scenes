@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Fun",
+"dataUrl": "Emotional Scenes.data.unityweb",
+"asmCodeUrl": "Emotional Scenes.asm.code.unityweb",
+"asmMemoryUrl": "Emotional Scenes.asm.memory.unityweb",
+"asmFrameworkUrl": "Emotional Scenes.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
